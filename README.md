@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="LINK_DO_SEU_SITE_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-Ver%20Projetos%20Reais%20🚀-0a192f?style=for-the-badge&logo=rocket&logoColor=64ffda&labelColor=64ffda&color=0a192f" height="45" />
+    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-0a192f?style=for-the-badge&logo=rocket&logoColor=64ffda&labelColor=64ffda&color=0a192f" height="45" />
   </a>
 
   <br /><br />
