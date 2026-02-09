@@ -3,20 +3,29 @@
 </div>
 
 <div align="center">
-  <br />
-  <a href="LINK_DO_SEU_SITE_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-Ver%20Projetos%20Reais%20🚀-64ffda?style=for-the-badge&logo=rocket&logoColor=0a192f&labelColor=0a192f&color=64ffda" alt="Portfólio Online" height="50" />
-  </a>
-  <br />
-  <br />
   
+  <a href="https://wa.me/5571981895293?text=Ol%C3%A1%20Samuel!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20fazer%20um%20or%C3%A7amento.">
+    <img src="https://img.shields.io/badge/Open%20for%20Freelance-Aceitando%20Projetos%20🚀-64ffda?style=for-the-badge&logo=rocket&logoColor=0a192f&labelColor=0a192f&color=64ffda" height="35" />
+  </a>
+
+  <br /><br />
+
   <a href="https://www.linkedin.com/in/samuel-cruzsp/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/samuell.c.s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="smlcruzs@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/5571981895293?text=Ol%C3%A1%20Samuel!%20Vim%20pelo%20GitHub." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 </div>
+
+<br />
 
 ---
 
