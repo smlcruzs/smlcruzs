@@ -3,14 +3,6 @@
 </div>
 
 <div align="center">
-
-  <a href="LINK_DO_SEU_SITE_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-0a192f?style=for-the-badge&logo=rocket&logoColor=64ffda&labelColor=64ffda&color=0a192f" height="45" />
-  </a>
-
-  <br /><br />
-
-<div align="center">
   
   <a href="https://wa.me/5571981895293?text=Ol%C3%A1%20Samuel!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20fazer%20um%20or%C3%A7amento.">
     <img src="https://img.shields.io/badge/Open%20for%20Freelance-Aceitando%20Projetos%20🚀-64ffda?style=for-the-badge&logo=rocket&logoColor=0a192f&labelColor=0a192f&color=64ffda" height="35" />
