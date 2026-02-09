@@ -1,76 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=200&section=header&text=Samuel%20Cruz&fontSize=80&fontColor=64ffda&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%20&%20Automation&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=220&section=header&text=Samuel%20Cruz&fontSize=80&fontColor=64ffda&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20&%20Automation&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
+  <br />
+  <a href="LINK_DO_SEU_SITE_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-Ver%20Projetos%20Reais%20🚀-64ffda?style=for-the-badge&logo=rocket&logoColor=0a192f&labelColor=0a192f&color=64ffda" alt="Portfólio Online" height="50" />
+  </a>
+  <br />
+  <br />
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cruzsp/)](https://www.linkedin.com/in/samuel-cruzsp/)
-  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
-
+  <a href="https://www.linkedin.com/in/samuel-cruzsp/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 ### 🦈 Sobre Mim
 
-Olá! Sou o **Samuel**, um Engenheiro de Software Júnior focado em resolver problemas reais com código limpo e arquiteturas escaláveis. Atualmente, transformo processos manuais em automações inteligentes na **Rede Alpha Fitness**.
+> **Engenheiro de Software e graduando em Ciência da Computação.**
 
-- 🔭 **Atualmente trabalhando em:** Automação de processos com AWS Lambda e Integração de IA em fluxos corporativos.
-- 🚀 **Stack Principal:** Python, JavaScript/Node.js, AWS e React.
-- 💡 **Interesses:** Inteligência Artificial (LLMs), Arquitetura Serverless e Desenvolvimento Mobile.
-- 🎓 **Formação:** Cursando Ciência da Computação @ Estácio | Téc. Desenvolvimento de Sistemas @ SENAI.
+Meu foco está na convergência entre **Desenvolvimento Web, IA e Automação**. Atuo na construção de soluções escaláveis, desde interfaces dinâmicas até back-ends robustos, integrando inteligência artificial para otimizar processos de negócio e eliminar tarefas repetitivas.
+
+* 🔭 **Atualmente:** Criando arquiteturas Serverless e Agentes de IA na Rede Alpha Fitness.
+* 🎯 **Objetivo:** Construir sistemas que pensam e trabalham sozinhos (Automação + LLMs).
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Arsenal Tecnológico
 
-<div align="left">
-  
-  **Backend & AI:**
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  
-  <br>**Frontend & Mobile:**<br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<div align="center">
 
-  <br>**Cloud & DevOps:**<br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+| Categoria | Stack & Ferramentas |
+| :--- | :--- |
+| **🤖 IA & Machine Learning** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **⚡ Automação (RPA)** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) `PyAutoGUI` |
+| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) `Lambda` `EC2` `S3` |
+| **⚙️ Back-end & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) `REST APIs` |
+| **💻 Front-end & Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat-square&logo=wordpress&logoColor=white) `CSS3` |
 
 </div>
 
 ---
 
-### 💼 Experiência & Projetos
+### 🚀 Destaques Recentes
 
-| Projeto / Empresa | Stack | Descrição |
-| :--- | :--- | :--- |
-| **AutoU (Alpha Fitness)** | 🐍 Python, OpenAI, AWS | Sistema de classificação de e-mails com IA que automatiza o fluxo de atendimento. |
-| **Sync Colaboradores** | ☁️ AWS Lambda, Drive API | ETL Serverless para sincronização de dados de funcionários entre sistemas. |
-| **Biblioteca API** | ☕ Node.js, Express, SQL | API RESTful robusta para gestão de acervos com autenticação e controle de estoque. |
+**1. Prescrição de Treino com GenAI**
+> Arquitetura híbrida usando **Python e OpenAI** para gerar treinos personalizados baseados em perfil do aluno, com validação cruzada por agentes de IA.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smlcruzs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlcruzs&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smlcruzs&theme=tokyonight" alt="smlcruzs" />
-</div>
+**2. Sync Serverless (AWS Lambda)**
+> Pipeline ETL automatizado na **AWS** que sincroniza dados de colaboradores em tempo real, eliminando processos manuais de RH.
 
 ---
 
 <div align="center">
-  <sub>Feito com 💙 e muito café por Samuel Cruz</sub>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Shark.png" alt="Shark" width="40" height="40" />
+  <br/>
+  <sub>"Código é a ferramenta, Inovação é o produto."</sub>
 </div>
