@@ -31,7 +31,7 @@
 
 ### 🦈 Sobre Mim
 
-> **Engenheiro de Software e graduando em Ciência da Computação.**
+> **Engenheiro de Software**
 
 Meu foco está na convergência entre **Desenvolvimento Web, IA e Automação**. Atuo na construção de soluções escaláveis, desde interfaces dinâmicas até back-ends robustos, integrando inteligência artificial para otimizar processos de negócio e eliminar tarefas repetitivas.
 
